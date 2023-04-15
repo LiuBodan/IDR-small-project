@@ -12,7 +12,7 @@ image_files = sorted([f for f in os.listdir(image_folder) if f.endswith('.png')]
 
 # initiation
 app = dash.Dash(__name__)
-
+server = app.server
 # frontend
 app.layout = html.Div([
     # headins and body
