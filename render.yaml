@@ -1,5 +1,5 @@
 services:
-  # See https://render.com/docs/blueprint-spec for more info on render blueprints
+  # See https://render.com/docs/blueprint-spec for more info on render blueprint
   - type: web
     name: IDR-Small-Project-Bodan
     env: python
