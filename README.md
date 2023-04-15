@@ -4,6 +4,7 @@ A small project on [IDR](https://idr.openmicroscopy.org/)
 Run app.py in `Segmentation Dashboard` to build interactive dashboard on the segmentations.
 
 Showcase of the dashboard:
+
 [Click to see the dashboard online](https://idr-small-project-bodan.onrender.com/) (it may take a few seconds to load)
 
 
