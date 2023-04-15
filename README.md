@@ -13,6 +13,6 @@ Showcase of the dashboard:
 New features still on developing:
 - [X] Simple dashboard sliders
 - [ ] Push dashboard online
-- [ ] Data exploration on IDR (patterns in dataset)
+- [ ] More data exploration on IDR (patterns in dataset)
 - [ ] Implement simple transformer on some interesting study case in IDR
 - [ ] Put everything on the dashboard
