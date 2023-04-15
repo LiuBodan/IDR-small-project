@@ -14,5 +14,5 @@ New features still on developing:
 - [X] Simple dashboard sliders
 - [ ] Push dashboard online
 - [ ] More data exploration on IDR (patterns in dataset)
-- [ ] Implement simple transformer on some interesting study case in IDR
+- [ ] Implement simple transformer on an interesting study case in IDR
 - [ ] Put everything on the dashboard
