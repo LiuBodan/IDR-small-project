@@ -6,8 +6,7 @@ Run app.py in `Segmentation Dashboard` to build interactive dashboard on the seg
 Showcase of the dashboard:
 <br>[Click to see the dashboard online](https://idr-small-project-bodan.onrender.com/) (it may take a few seconds to load)
 
-
-![slider](https://user-images.githubusercontent.com/123052690/232190374-24c15c02-cb82-4b90-b7b0-6c77735ccfdc.gif)
+![demo2](https://user-images.githubusercontent.com/123052690/232227204-e2ed8959-8e37-43a5-8381-48f8191c3a81.gif)
 
 New features still on developing:
 - [X] Simple dashboard sliders
